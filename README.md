@@ -8,4 +8,4 @@ It was coded using HTML and SASS technologies.
 
 <h2> screenshot </h2>
 
-![](screen.gif)# GitHubmyprofile
+![](screen.png)# GitHubmyprofile
